@@ -46,4 +46,4 @@ Getting Started:
 
     Build and Run the application using mvn spring-boot:run  
 Contact:
-    For any questions or feedback, please contact Kumaresan at kumaresanganapathi05@gmail.com
+    For any questions or feedback, please contact Maria joseline at mariajoseline198@gmail.com
